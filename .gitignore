@@ -1,1 +1,3 @@
-/reference/jupyterq
+jupyterq/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
