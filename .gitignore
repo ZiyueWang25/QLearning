@@ -2,7 +2,7 @@ reference/jupyterq/
 .ipynb_checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
-
+/quantQ/
 
 
 # Byte-compiled / optimized / DLL files
