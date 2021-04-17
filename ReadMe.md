@@ -5,3 +5,4 @@
 3. Plan:
    1. 1 day per chapter: Finish the book by November 30 2020
    2. repository learning: https://github.com/hanssmail/quantQ
+   3. Exercise: relevant pandas library code implementation
